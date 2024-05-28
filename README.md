@@ -14,7 +14,7 @@ The Cooking Recipe Sharing Platform is a web application that allows users to ex
 - Responsive design for different screen sizes.
 
 ## Technologies Used
-
+- **React:** Front-end library for building user interfaces.
 - **Node.js:** Backend server for handling requests and data.
 - **Express.js:** Web application framework for Node.js.
 - **MongoDB:** Database for storing recipe data.
@@ -22,9 +22,7 @@ The Cooking Recipe Sharing Platform is a web application that allows users to ex
 - **HTML/CSS:** Front-end design and layout.
 - **JavaScript:** Client-side scripting for interactivity.
 - **File Upload:** For handling recipe images.
-- **Express-Session and Cookies:** User session management.
 - **Method-Override:** For handling HTTP DELETE requests.
-- **Connect-Flash:** For displaying flash messages to users.
 - **Bootstrap or CSS Framework:** For styling and responsive design.
 
 ## Getting Started
